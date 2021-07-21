@@ -2,8 +2,7 @@
 
 ## Overview of the analysis 
 
-This project has the main object to analyze all the rideshare data from January to early May of 2019 from PyBer a ride-sharing app company. Our main purpose is analyse the behaviour between the diferent type of cities in our case the types of cities we will be working will be Urban, Suburban and Rural in relation to the number of drivers and the fares.
-With the above Pyber company could take the best decison for the business strategy.
+This project has the main object to analyze all the rideshare data from January to early May of 2019 from PyBer a ride-sharing app company. Our main purpose is analyze the behavior between the different type of cities in our case the types of cities we will be working will be Urban, Suburban and Rural in relation to the number of drivers and the fares. With the above Pyber company could take the best decision for the business strategy.
 
 ![Driver apps](https://www.cbvcvehiclemanagement.co.uk/wp/wp-content/uploads/2018/11/driverapps.jpg)
 
