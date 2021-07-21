@@ -33,7 +33,7 @@ As we can see through our analysis the different between the different kind of c
 2. Launch promotional campaigns for rural and suburban cities in which you can ofter diferent payment methods in case that people do not have access to a credit card, this 
 could be one of the reasons because people that lives in this kind of cities don't use this ride-sharing apps.
 
-![money](https://www.bbva.com/wp-content/uploads/2018/10/BBVA-efectivo-tarjeta-1920x1180-1024x629.jpg)
+![money](https://eldiariodefinanzas.com/wp-content/uploads/2019/06/Portada_Efectivo.jpgS)
 
 3. Increase the number of drivers in the rural and suburban areas if there is a greater demand, because the wait time is important variable that people consider at the moment to take this ride-sharing services through an app.
 
